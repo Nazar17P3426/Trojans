@@ -1,2 +1,2 @@
 # Trojans
-This is my C++ GDI malwares, but the source codes of my GDI malwares will be never released, enjoy! :)
+This is my GDI malwares, but the source codes of my GDI malwares will be NEVER released, enjoy! :)
